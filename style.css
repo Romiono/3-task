@@ -47,7 +47,7 @@ li {
 }
 
 a {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 main ol li {
@@ -183,6 +183,10 @@ td {
     header {
         flex-direction: row;
         justify-content: center;
+    }
+
+    a {
+        font-size: 20px;
     }
 
     .header-wraper {
