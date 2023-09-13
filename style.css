@@ -100,11 +100,6 @@ td {
 }
 
 .nav-item {
-    margin: 0;
-}
-
-
-.nav-item {
     background-color: transparent;
     border: none;
     margin-right: 10px;
