@@ -78,11 +78,6 @@ td {
     border: 1px solid black;
 }
 
-
-.logo {
-    margin: 20px 49px 0 49px;
-}
-
 .nav-wraper {
     margin: 0;
     padding: 0;
@@ -115,7 +110,16 @@ td {
 .logo {
     width: 25px;
     height: 25px;
-    margin: 10px;
+    margin: 20px 68px 0 68px;
+}
+
+.main-section1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.first-table {
+    order: -1;
 }
 
 #aInText {
@@ -186,5 +190,9 @@ td {
     .nav-item-wraper {
         display: inline-block;
         margin: 10px;
+    }
+
+    .first-table {
+        order: 1;
     }
 }
