@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin: 0 auto;
+        margin: 0 0;
     }
 
     main {
@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .head {
         justify-content: left;
-        width: 60%;
+        width: 30%;
     }
 
     .root {
