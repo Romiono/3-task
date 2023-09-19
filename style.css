@@ -41,7 +41,7 @@ nav {
 }
 
 main {
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
 }
 
@@ -69,7 +69,6 @@ table {
     border: 3px solid black;
     margin: 50px auto;
     width: 95%;
-    order: -1;
 }
 
 th {
