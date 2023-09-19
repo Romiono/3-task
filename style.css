@@ -197,6 +197,20 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Bebas Neue";
 }
 
+@font-face {
+    font-family: "Bebas Neue";
+    font-style: normal;
+    font-weight: bold;
+    src: url("./fonts/BebasNeue-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    src: url("./fonts/Montserrat-Regular.ttf");
+}
+
 @media all and (min-width: 900px) {
     header {
         flex-direction: row;
