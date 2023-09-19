@@ -40,7 +40,7 @@ nav {
     min-width: 100px;
 }
 
-main{
+main {
     max-width: 90%;
     margin: 0 auto;
 }
@@ -68,7 +68,8 @@ table {
     border-collapse: collapse;
     border: 3px solid black;
     margin: 50px auto;
-    width: 80%;
+    width: 95%;
+    order: -1;
 }
 
 th {
@@ -269,5 +270,9 @@ h1, h2, h3, h4, h5, h6 {
 
     .front-block {
         border-radius: 30px;
+    }
+
+    table {
+        width: 80%;
     }
 }
