@@ -177,6 +177,17 @@ td {
     background-color: bisque;
 }
 
+.spin-logo {
+    animation: 20s spin linear infinite;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(720deg);
+    }
+}
 
 p, a {
     font-family: "Montserrat";
